@@ -53,4 +53,7 @@ $ adb shell input text "srk"
 $ adb shell input keyevent <3/4>
 $ adb shell getprop
 	gets properties in terms of key-value pair.
-$ adb shell getprop wifi.interface	
+$ adb shell getprop wifi.interface
+	
+adb cheat sheet:
+	https://devhints.io/adb
